@@ -1,0 +1,24 @@
+{
+  "name": "htmlgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabhanson/htmlgen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabhanson/htmlgen/issues"
+  },
+  "homepage": "https://github.com/sabhanson/htmlgen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "terminal-link": "^3.0.0"
+  }
+}
